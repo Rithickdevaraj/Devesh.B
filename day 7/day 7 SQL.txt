@@ -8,6 +8,6 @@ create table course(
 
 
 insert into course(cname,cfee,cd) 
-values('Devops',12500,6), 
-('AIML',32000,9), 
-('BlockChain',50000,4); 
+values('java',12500,6), 
+('python',32000,9), 
+('c++',50000,4); 
